@@ -9,6 +9,8 @@ public class Say {
 		System.out.println("同事1再次修改代码");
 
 		System.out.println("同事2修该代码");
+		
+		System.out.println("同事4对代码进行修改");
 
 	}
 }
