@@ -12,5 +12,6 @@ public class Say {
 		
 		System.out.println("同事4对代码进行修改");
 
+		System.out.println("同事3修改代码");
 	}
 }
