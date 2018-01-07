@@ -10,5 +10,6 @@ public class Say {
 
 		System.out.println("同事2修该代码");
 
+		System.out.println("同事3修改代码");
 	}
 }
